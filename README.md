@@ -524,6 +524,7 @@ _Django 5_
 - [Django CRM Admin](https://github.com/DjangoCRM/django-crm) - Open source Python CRM built entirely on Django Admin Site.
 - [linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed to be minimal, fast, and easy to set up using Docker.
 - [pythonic-news](https://github.com/sebst/pythonic-news) - Hacker News clone.
+- [Tlamatini](https://github.com/XAIHT/Tlamatini) - Local-first AI developer assistant built on Django + Channels. Hybrid RAG (FAISS + BM25), multi-turn tool orchestration with 79 tools, visual workflow designer with 74 agents, and multi-CLI delegation (Claude Code, Cursor, Codex, Gemini). Runs on Ollama. GPL-3.0.
 
 ## Django REST Framework
 
